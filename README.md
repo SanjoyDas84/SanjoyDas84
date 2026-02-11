@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am fresher <br>i am currently learning React Native<br>i'm creating many small projects
+i'm fresher <br>i'm currently learning React Native<br>i'm creating many small projects
 
 
 ## 🌐 Socials:
